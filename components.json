@@ -1,0 +1,4 @@
+{
+	"./app/components/button/styles.css": ["./app/components/button/index.html"],
+	"./app/components/btn2/styles.css": ["./app/components/btn2/index.html"]
+}
